@@ -18,3 +18,60 @@
 {"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:52","correlationId":"7a6b3c1f-f7d6-45c4-ac86-783542868c96","data":{}}
 {"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:52","correlationId":"0a02d2e6-fbd2-45ce-a0dc-aaf55b83275c","data":{}}
 {"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:54","correlationId":"1bf5afdf-05af-4f05-97a8-5686d1807e5e","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:45:06","correlationId":"4a6832de-9fc9-4ddf-8963-6608fb2e6388","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:21","correlationId":"cc91855e-d523-4e35-87cc-0dc00ff29f3f","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:24","correlationId":"3d9130c4-432b-4668-9f3c-584bca296777","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:27","correlationId":"fe475256-0e82-49fd-999c-00d5e10aee21","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:30","correlationId":"f436bebb-0d5e-4b18-a445-af7462796253","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:33","correlationId":"1f9e6a59-777c-4b31-9750-7c2b834484ad","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:35","correlationId":"29e2dcee-a44f-47d3-a486-f53e3dec9ea5","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:38","correlationId":"9387e893-4d0d-4932-9f68-6fc522637173","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:41","correlationId":"9d637b5a-a78c-4cf7-a05a-dc4bf4981568","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:45:45","correlationId":"f25c1067-93be-47ad-b958-c5ee142b0366","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:49:36","correlationId":"b450cd7a-c060-418b-9eb6-c85827f60389","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:12","correlationId":"c5fdc957-48d8-44b0-9a4c-2eff92c97a8a","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:16","correlationId":"286e4b51-282d-4381-9846-dbf5b8cfffd1","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:19","correlationId":"ea0f2c30-e1eb-4882-a338-17e8556d477b","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:22","correlationId":"ec13e368-3caa-440d-b623-32d1636b0eb2","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:24","correlationId":"7939f1d5-0b90-478c-bb0c-2e4b6a14e4d3","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:27","correlationId":"afcdb647-d733-4775-96ec-58ad375382be","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:30","correlationId":"08a65c54-776d-4d40-86e6-bfa5125eb88b","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:32","correlationId":"20fea74a-0f3b-4772-a7f1-b53a403b8d6e","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:50:42","correlationId":"0ead4bfc-4eb7-46af-a38d-cec85dfeb154","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:56:42","correlationId":"ded2f88e-3f1d-490c-b74b-51d544e48e84","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:56:42","correlationId":"94bc39ed-ab4b-4898-83c9-9a774c8a9e64","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:56:51","correlationId":"1e011c72-6973-4376-b091-1b56ab1caafc","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:56:51","correlationId":"ae320e91-a2f0-4c33-ad39-b22477289ca1","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:57:00","correlationId":"63d2e31b-c4e8-44ea-a744-ceef1119e37e","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:57:00","correlationId":"c5023926-a050-485c-aa60-f84f0455abd1","data":{}}
+{"level":"info","message":"Profile updated for User ID: 1","timestamp":"01-16-2026 22:57:37","correlationId":"fc0de807-8fc0-4180-a3e9-c0a4849b4e54","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:57:37","correlationId":"218cbd77-289b-4ac6-a9fc-64a1729f7bc9","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:57:37","correlationId":"c90d4cc5-b486-484a-acf8-cecd9a254afd","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:57:40","correlationId":"948058dd-1fae-4fcf-8f63-c4bf6da49725","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:57:40","correlationId":"fd76e2f6-ad73-40fc-817c-26228bc8d86a","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:58:04","correlationId":"ea051436-1438-45ff-849f-cb0e5d58097b","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:58:36","correlationId":"dff33113-16a0-4a28-8fde-d8d14c54a9f8","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 22:58:36","correlationId":"aa9c9509-580f-422e-85bd-8c867acf10c0","data":{}}
+{"level":"info","message":"User created with ID: 2","timestamp":"01-16-2026 23:00:15","correlationId":"edea1e9e-5e09-4629-bb47-39db5766ea11","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:15","correlationId":"6bb0cdeb-0e48-4d57-9e70-45184b2fd2c1","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:15","correlationId":"e1695d65-7d0a-4ed7-ba54-9b05e299ab2c","data":{}}
+{"level":"info","message":"User retrieved with ID: 2","timestamp":"01-16-2026 23:00:17","correlationId":"721e2b8c-40df-47d0-b930-4928fd68c7bd","data":{}}
+{"level":"info","message":"User retrieved with ID: 2","timestamp":"01-16-2026 23:00:17","correlationId":"99232b51-6219-445a-80bb-603c994d74a5","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:21","correlationId":"0d68c808-cff4-4a56-b15a-114b79b02672","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:21","correlationId":"07a009a8-a3da-4e63-a914-9f2e539f5ed9","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 23:00:35","correlationId":"2b3d37e2-5704-42e1-8a52-0920c296f43d","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 23:00:35","correlationId":"8d775bd7-89d0-4896-b46a-c4994a35a01e","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:46","correlationId":"9b6c513a-36c4-4f6b-801b-c45d2ed07a38","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:00:46","correlationId":"74a04303-af05-4302-afb7-cd043a65cf05","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:01:51","correlationId":"981b4df5-b45f-43be-a904-b0e214b9c6f3","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:01:56","correlationId":"2c5a5db6-61fd-41cc-accb-5b9ff8fe5ed2","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:02:00","correlationId":"4377f5b8-9e38-4293-9449-ce40130fe380","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:02","correlationId":"7d202fdf-db53-4cb8-b7cd-6f96456adfcd","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:05","correlationId":"d08c9467-f536-4dd8-aae1-4720f1e0d990","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:08","correlationId":"71769446-2017-4890-aa1c-8b38134af496","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:35","correlationId":"a9db4dd0-11a9-4d31-a6eb-ec8f66567f35","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:35","correlationId":"3feb65ca-b04d-439d-a55e-6735757e4beb","data":{}}
+{"level":"info","message":"User retrieved with ID: 2","timestamp":"01-16-2026 23:03:42","correlationId":"46ee70fd-c8e5-441d-a5a6-7f6dba65c7a9","data":{}}
+{"level":"info","message":"User retrieved with ID: 2","timestamp":"01-16-2026 23:03:42","correlationId":"5919c8f4-2682-4de3-be3e-d1f3eb63e92d","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:45","correlationId":"403ec05a-cb2b-45ad-a87d-1fada7bcf1ff","data":{}}
+{"level":"info","message":"Retrieved 2 users","timestamp":"01-16-2026 23:03:45","correlationId":"fef2a364-b757-4176-955d-472e219aadd3","data":{}}

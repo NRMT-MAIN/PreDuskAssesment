@@ -8,14 +8,22 @@ import { attachCorrelationIdMiddleware } from './middleware/correlation.middlewa
 import { appErrorHandeler, genericErrorHandeler } from './middleware/error.middleware';
 import { container } from "./container";
 import { DatabaseConfig } from "./config/db.config";
+import cors from 'cors';
 
 const app = express();
+
+app.use(cors({
+  origin: 'http://localhost:5173', // Vite default port
+  credentials: true
+}));
 
 app.use(attachCorrelationIdMiddleware);
 app.use(express.json());
 app.use("/api/v1", v1Router);
 app.use(appErrorHandeler);
 app.use(genericErrorHandeler);
+
+
 
 (async () => {
   try {
