@@ -12,5 +12,5 @@ function loadEnv() {
 loadEnv();
 
 export const serverConfig: ServerConfig = {
-    PORT: parseInt(process.env.PORT || "3000", 10),
+    PORT : Number(process.env.PORT) || 3001
 };
