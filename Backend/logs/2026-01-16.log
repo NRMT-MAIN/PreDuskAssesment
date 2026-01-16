@@ -5,3 +5,16 @@
 {"level":"error","message":"Error adding project: notNull Violation: Project.title cannot be null","timestamp":"01-16-2026 19:00:00","correlationId":"3dfc28a6-4d07-43b0-b136-cea27d3d22b3","data":{}}
 {"level":"info","message":"Project added for User ID: 1","timestamp":"01-16-2026 19:00:24","correlationId":"682b3de7-ca9f-493a-a071-0f23e5a12130","data":{}}
 {"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 19:00:33","correlationId":"f65c7195-c2d4-47e6-b68e-4144e1c92b63","data":{}}
+{"level":"info","message":"Retrieved 1 users","timestamp":"01-16-2026 19:11:03","correlationId":"60ad12a6-0e53-4bc7-b0ff-903bd70d0b25","data":{}}
+{"level":"error","message":"Error retrieving user: Unknown column 'User.password' in 'field list'","timestamp":"01-16-2026 21:59:59","correlationId":"6f64823e-1bc1-43e6-90d6-59e7c32a6c3b","data":{}}
+{"level":"error","message":"Error retrieving user: Unknown column 'User.password' in 'field list'","timestamp":"01-16-2026 22:00:00","correlationId":"6cd62baa-4515-4bb7-a30f-97764b474ba3","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:44","correlationId":"2a65ece2-8f5a-403e-828e-2a896ab3f783","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:46","correlationId":"9082bf33-7b7e-4545-a53e-4c8db517e042","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:46","correlationId":"193b302a-aa13-4842-9685-629baddd291d","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:47","correlationId":"467c54c2-ab79-449e-a423-15ed572bcf66","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:48","correlationId":"860a2ebb-bcac-427f-aa57-6a24452b2ebc","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:49","correlationId":"e3053f31-30b6-4a0c-9b42-bfd409355fa5","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:50","correlationId":"1979511c-b5ec-4f8f-a155-8e30e8d7f982","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:52","correlationId":"7a6b3c1f-f7d6-45c4-ac86-783542868c96","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:52","correlationId":"0a02d2e6-fbd2-45ce-a0dc-aaf55b83275c","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 22:00:54","correlationId":"1bf5afdf-05af-4f05-97a8-5686d1807e5e","data":{}}

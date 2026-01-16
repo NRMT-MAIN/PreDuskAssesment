@@ -1,4 +1,4 @@
-import { Table, Column, Model, DataType, HasMany } from 'sequelize-typescript';
+import { Table, Column, Model, DataType, HasMany, DefaultScope, Scopes } from 'sequelize-typescript';
 import { Project } from './Project';
 import { Work } from './Work';
 import { Education } from './Education';

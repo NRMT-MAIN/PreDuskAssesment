@@ -2,8 +2,10 @@ import express from 'express';
 import logger from '../config/logger.config';
 import { container } from 'tsyringe';
 import { UserController } from '../controller/UserController';
+import { apiLimiter } from '../middleware/ratelimiter.middleware';
 
 const userRouter = express.Router();
+userRouter.use(apiLimiter);
 const userController = container.resolve(UserController);
 
 userRouter.post("/", (req, res) => userController.createProfile(req, res));
