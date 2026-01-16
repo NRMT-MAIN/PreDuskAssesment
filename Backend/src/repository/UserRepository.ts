@@ -1,12 +1,15 @@
-import { th } from "zod/locales";
 import { Project } from "../db/models/Project";
 import { User } from "../db/models/User";
 import { IUserRepository } from "./IUserRepository";
 import { Work } from "../db/models/Work";
 import { Education } from "../db/models/Education";
+import { inject, injectable } from "tsyringe";
+import { DatabaseConfig } from "../config/db.config";
 
-
+@injectable()
 export class UserRepository implements IUserRepository {
+    constructor(@inject(DatabaseConfig) private dbConfig: DatabaseConfig) {}
+
     async addProject(userId: number, projectData: any): Promise<Project> {
         return await Project.create({ ...projectData, userId });
     }
@@ -14,7 +17,7 @@ export class UserRepository implements IUserRepository {
     async addSkill(id: number, newSkill: string): Promise<void> {
         const user = await User.findByPk(id);
         if (user) {
-            const skills = user.skills || [];
+            const skills = user.getDataValue('skills') || [];
             if (!skills.includes(newSkill)) {
                 await user.update({ skills: [...skills, newSkill] });
             }
@@ -54,9 +57,9 @@ export class UserRepository implements IUserRepository {
     }
 
     async updateEducation(userId: number, educationData: any[]): Promise<void> {
-        const user = await User.findByPk(userId);
-        if (user) {
-            await user.update({ education: educationData });
+        await Education.destroy({ where: { userId } });
+        for (const edu of educationData) {
+            await Education.create({ ...edu, userId });
         }
     }
 
@@ -66,10 +69,11 @@ export class UserRepository implements IUserRepository {
             await user.update(data);
         }
     }
+
     async updateWorkHistory(userId: number, workData: any[]): Promise<void> {
-        const user = await User.findByPk(userId);
-        if (user) {
-            await user.update({ workHistory: workData });
+        await Work.destroy({ where: { userId } });
+        for (const work of workData) {
+            await Work.create({ ...work, userId });
         }
     }
 }

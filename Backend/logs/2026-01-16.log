@@ -1,1 +1,7 @@
 {"level":"info","message":"Ping request received","timestamp":"01-16-2026 16:35:54","correlationId":"efdd30db-ad9e-4e45-9df4-44e0b55d5f21","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 18:56:25","correlationId":"fa67d04a-9089-40a8-8b48-45e6092e8abb","data":{}}
+{"level":"info","message":"Skill added for User ID: 1","timestamp":"01-16-2026 18:57:58","correlationId":"35504ffd-d83a-4826-b405-72d3e58bf2c1","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 18:58:06","correlationId":"4376fd56-9307-42a4-839b-e7810e2cae95","data":{}}
+{"level":"error","message":"Error adding project: notNull Violation: Project.title cannot be null","timestamp":"01-16-2026 19:00:00","correlationId":"3dfc28a6-4d07-43b0-b136-cea27d3d22b3","data":{}}
+{"level":"info","message":"Project added for User ID: 1","timestamp":"01-16-2026 19:00:24","correlationId":"682b3de7-ca9f-493a-a071-0f23e5a12130","data":{}}
+{"level":"info","message":"User retrieved with ID: 1","timestamp":"01-16-2026 19:00:33","correlationId":"f65c7195-c2d4-47e6-b68e-4144e1c92b63","data":{}}
