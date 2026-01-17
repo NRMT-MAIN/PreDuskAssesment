@@ -13,8 +13,9 @@ import cors from 'cors';
 const app = express();
 
 app.use(cors({
-  origin: 'http://localhost:5173', // Vite default port
-  credentials: true
+  origin: 'https://preduskassesment-frontend.onrender.com', 
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
+  credentials: true 
 }));
 
 app.use(attachCorrelationIdMiddleware);
